@@ -1,2 +1,5 @@
 venv
 *.pyc
+.DS_Store
+db.sqlite
+initial_data.json
